@@ -1,0 +1,7 @@
+.top-header input:checked+.mantine-Switch-track {
+    background-color: #192655;
+}
+
+.top-header input:checked+.mantine-Switch-track .mantine-Switch-trackLabel {
+    color: #fff;
+}

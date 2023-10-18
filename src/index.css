@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+}
+
+
+/* Imported stylesheets */
+
+/* pages css files */
+@import 'styles/pages/auth.css';
+
+/* components css files */
+@import 'styles/components/login.css';
+@import 'styles/components/register.css';
+@import 'styles/components/topbar.css';
+@import 'styles/components/navbar.css';
+@import 'styles/components/footer.css';

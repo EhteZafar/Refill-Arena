@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #333365;
+}
+
+/* .navbar .mantine-Badge-root {
+    display: flex;
+    font-size: 1rem;
+    height: 25px;
+    width: 25px;
+    border-radius: 500px;
+} */
+
+.badge {
+    border-radius: 100%;
+    width: 1%;
+}
