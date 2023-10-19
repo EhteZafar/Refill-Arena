@@ -1,0 +1,9 @@
+.home {
+    background-image: url(../../../public/images/home/banner.png);
+    background-size: cover;
+}
+
+.top {
+    background-image: url(../../../public/images/home/Banner\ 2.png);
+    background-size: cover;
+}

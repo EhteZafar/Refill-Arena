@@ -18,3 +18,4 @@ body {
 @import 'styles/components/topbar.css';
 @import 'styles/components/navbar.css';
 @import 'styles/components/footer.css';
+@import 'styles/pages/home.css';
